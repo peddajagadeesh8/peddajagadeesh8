@@ -13,7 +13,7 @@
 
 - I have a strong passion for data accessibility and believe that insights derived from data should be available and understandable to everyone, regardless of their technical background.
 
-- 🎨 I can take a design and Develop **Transform raw data into actionable insights, ensuring that the analysis is not only thorough but also presented in a visually appealing and easily understandable format across various platforms and tools.**, and **transform it into a fully functional website**, ensuring that it not only looks great but also works seamlessly across different devices and browsers.
+- 🎨 I can take a design and Develop **Transform raw data into actionable insights, ensuring that the analysis is not only thorough but also presented in a visually appealing and easily understandable format across various platforms and tools.**,
 
 - 🎯 My goal is to provide users with the best experience possible while adhering to the latest Technologies standards.
 
@@ -31,6 +31,7 @@
    
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black&logoSize=auto)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
 ![SASS](https://img.shields.io/badge/sass-094550?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp;
