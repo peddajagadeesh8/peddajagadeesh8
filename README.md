@@ -2,8 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
 <div align="center">
-<h3><em>"Internet is for everyone, but it won't be unless WE make it so."</em></h3>
-<h4> - Vint Cerf</h4>
 </div>
 <br><br>
 
