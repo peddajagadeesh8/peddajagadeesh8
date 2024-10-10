@@ -2,8 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
 <div align="center">
-</div>
-<br><br>
 
 <!-- About Me - start -->
 ## 👨‍💻 About Me
