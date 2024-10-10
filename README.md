@@ -9,11 +9,9 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="" width="360px"/>
 
-- 👋 Hi I'm Pedda Jagadeesh, a **Frontend Developer**, **Data Analyst** focused on creating **accessible and intuitive web experiences.** and transforming complex data into clear and actionable insights that drive informed decision-making.
+- 👋 Hi I'm Pedda Jagadeesh, a **Data Analyst**, transforming complex data into clear and actionable insights that drive informed decision-making. **Frontend Developer** focused on creating **accessible and intuitive web experiences.**
 
 - I have a strong passion for data accessibility and believe that insights derived from data should be available and understandable to everyone, regardless of their technical background.
-
-- 🌐 I have a strong passion for web accessibility and believe that the web should be usable by everyone, regardless of their abilities. 
 
 - 🎨 I can take a design and Develop **Transform raw data into actionable insights, ensuring that the analysis is not only thorough but also presented in a visually appealing and easily understandable format across various platforms and tools.**, and **transform it into a fully functional website**, ensuring that it not only looks great but also works seamlessly across different devices and browsers.
 
