@@ -21,7 +21,7 @@
 
 ### 🚀 Currently:
 
-- 📘 Diving deeper into **Power BI**, **Python**, **HTML5**, **CSS3**, and **JavaScript** through project-based learning.
+- 📘 Diving deeper into **Power BI**, **Python**, **MySQL**, **HTML5**, **CSS3**, and **JavaScript** through project-based learning.
 
 <br><br>
 <!-- About Me - end -->
@@ -31,13 +31,12 @@
    
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black&logoSize=auto)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
 ![SASS](https://img.shields.io/badge/sass-094550?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-094550?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/GITHUB-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)&nbsp;
 ![Markdown](https://img.shields.io/badge/MARKDOWN-094550?style=for-the-badge&logo=markdown&logoColor=white&logoSize=auto)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-094550?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=auto)&nbsp;
